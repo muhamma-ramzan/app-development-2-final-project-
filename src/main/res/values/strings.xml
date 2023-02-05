@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FitX</string>
+    <string name="fist_time_here">Fist time here</string>
+    <string name="fitX">TODO</string>
+    <string name="button2">Button</string>
+    <string name="already_have_a_schedule">Already have a schedule</string>
+    <string name="first_time_here">First time here</string>
+    <string name="you_need_to_tell_us_a_bit_about_yoursefl">You need to tell us a bit about yoursefl.</string>
+    <string name="setup">TODO</string>
+    <string name="start">Start</string>
+    <string name="flash">TODO</string>
+    <string name="info">TODO</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="gender">Gender</string>
+    <string name="weight">Weight</string>
+    <string name="welcome">Welcome</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="go_to_the_schdule">go to the schdule</string>
+    <string name="Email">Email-</string>
+    <string name="full_name">Full Name-</string>
+    <string name="change">Change</string>
+    <string name="paragraph">You start with 20 min of running.\n\n
+    then 10 min of cycling. \n\n
+    then a bit of stretching followed by max 10 push ups in 3 intervals.\n\n
+    once you finished with it then 8 pull up on the machine.\n\n
+    This will be your worm up once you done you should hed over to the weight lifting side n try bench press with just the bar.\n\n 3 sets 5-6 reps a set\n\n
+    after words try incline bench press if you can do the same amount of it as well.\n\n
+    once you done with it if could not do it no problem, do dumbbell fly, same amount, afterwords do hammer with2kg weight dumbbell\n\n
+    followed by bar pull.</string>
+</resources>
